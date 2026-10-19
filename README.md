@@ -129,23 +129,6 @@ Proyecto académico orientado al estudio de la oferta y demanda de servicios dom
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Isaac"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=tokyonight&hide_border=true&locale=es" alt="Racha de actividad en GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfica de actividad en GitHub"/>
-</p>
-
----
-
 ## 🌱 Actualmente aprendiendo
 
 - 🐍 Fortalecimiento de lógica de programación y Python.
