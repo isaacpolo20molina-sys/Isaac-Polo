@@ -38,7 +38,7 @@ Actualmente trabajo en proyectos académicos que me permiten fortalecer mis cono
 ### Lenguajes y bases de datos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,godot,spotify" alt="Python, MySQL, Godot y Spotify"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,godot" alt="Python, MySQL y Godot"/>
   <img src="https://img.shields.io/badge/SQL-Consultas%20y%20modelado-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PSeInt-Lógica%20de%20programación-2563EB?style=for-the-badge" alt="PSeInt"/>
 </p>
