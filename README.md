@@ -53,7 +53,7 @@ Actualmente trabajo en proyectos académicos que me permiten fortalecer mis cono
 ### Herramientas de desarrollo y análisis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" alt="Git, GitHub, Visual Studio Code y Notion"/>
   <img src="https://img.shields.io/badge/MySQL%20Workbench-Modelado%20de%20datos-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
   <img src="https://img.shields.io/badge/PlantUML-Diagramas-285577?style=for-the-badge" alt="PlantUML"/>
   <img src="https://img.shields.io/badge/Lucidchart-Modelado%20visual-EB6C26?style=for-the-badge" alt="Lucidchart"/>
