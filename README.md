@@ -46,7 +46,7 @@ Actualmente trabajo en proyectos académicos que me permiten fortalecer mis cono
 ### Desarrollo web y diseño
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS y JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript y Bootstrap"/>
   <img src="https://img.shields.io/badge/v0.app-Prototipado-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0.app"/>
 </p>
 
