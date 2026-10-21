@@ -10,7 +10,7 @@
   <a href="https://github.com/isaacpolo20molina-sys">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:isaacpolo20molina@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
   </a>
   <img src="https://img.shields.io/badge/Ubicación-Medellín%2C%20Colombia-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Medellín, Colombia"/>
