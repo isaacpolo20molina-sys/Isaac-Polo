@@ -150,38 +150,30 @@ Sistema de información diseñado para mejorar la gestión de una tienda de barr
 - Diseño de interfaces para los roles de administrador y cajero.
 
 **Tecnologías:** MySQL · SQL · MySQL Workbench · PlantUML · Lucidchart · v0.app.
+  
+### 🎮 Desarrollo de videojuegos educativos
 
-🔗 **Recursos del proyecto:**
+Desarrollo de un videojuego 3D en Godot 4 orientado a prevenir la violencia escolar y la difusión de peleas en redes sociales mediante experiencias interactivas y toma de decisiones.
 
-- [Repositorio](URL_DE_TU_REPOSITORIO)
-- [Prototipo de interfaz](URL_DE_TU_PROTOTIPO)
-- [Documentación técnica](URL_DE_TU_DOCUMENTACION)
+- Diseño de una historia dividida en capítulos con personajes y situaciones escolares.
+- Implementación de mecánicas de juego, cuestionarios y decisiones con consecuencias educativas.
+- Diseño de un sistema de perfiles y dificultad adaptada al grado escolar.
+- Desarrollo de mecánicas de progreso, guardado de avances y logros.
+- Enfoque en la sensibilización sobre las consecuencias sociales y académicas de la violencia.
 
-### 📐 Análisis y modelado de sistemas
+**Herramientas:** Godot 4 · GDScript · Blender/Mixamo (recursos 3D y animaciones, según los utilizados).
 
-Diseño de artefactos técnicos para representar procesos de negocio, requerimientos y estructuras de datos antes de implementar una solución.
+### 🚀 Jóvenes Talento — Plataforma de conexión entre jóvenes y empresas
 
-- Elaboración de diagramas de casos de uso y procesos.
-- Diseño de modelos conceptuales, lógicos y relacionales.
-- Definición de historias de usuario y reglas de negocio.
-- Documentación de requerimientos funcionales y no funcionales.
+Diseño conceptual de una solución tecnológica orientada a conectar jóvenes con oportunidades laborales en empresas colombianas, fortaleciendo sus habilidades mediante aprendizaje interactivo y herramientas de inteligencia artificial.
 
-**Herramientas:** PlantUML · Lucidchart · MySQL Workbench.
+- Diseño de una plataforma con perfiles de talento y habilidades técnicas y blandas.
+- Propuesta de retos diarios, puntos y rachas para incentivar el aprendizaje.
+- Diseño de rutas de formación personalizadas con apoyo de inteligencia artificial.
+- Conceptualización de un sistema de búsqueda de talentos para facilitar la conexión entre jóvenes y empresas.
+- Propuesta de estrategias digitales para atraer participantes y promover la plataforma.
 
-🔗 [Ver diagramas y documentación](URL_DE_TUS_DIAGRAMAS)
-
-### 📊 Investigación y análisis de información
-
-Proyecto académico orientado al estudio de la oferta y demanda de servicios domiciliarios en San Gil y a la exploración de una posible solución tecnológica.
-
-- Diseño y organización de encuestas digitales.
-- Recopilación anónima de respuestas.
-- Organización de información mediante hojas de cálculo.
-- Participación en un estudio académico con **300 participantes**, según los datos del proyecto.
-
-**Herramientas:** Google Forms · Microsoft Excel.
-
-🔗 [Ver documentación del proyecto](URL_DE_TU_PROYECTO)
+**Herramientas:** Inteligencia artificial generativa · Herramientas de diseño y prototipado · GitMind (organización de ideas y conceptos).
 
 ---
 
@@ -195,32 +187,16 @@ Proyecto académico orientado al estudio de la oferta y demanda de servicios dom
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfica de actividad de GitHub"/>
-</p>
-
----
-
 ## 🤝 Contacto
 
 Estoy interesado en seguir aprendiendo, colaborar en proyectos tecnológicos y conectar con personas del área de desarrollo de software.
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/isaacpolo20molina-sys">
     <img src="https://img.shields.io/badge/GitHub-Conectemos-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:isaacpolo20molina@gmail.com">
     <img src="https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
-  <a href="URL_DE_TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Mi%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
